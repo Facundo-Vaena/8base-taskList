@@ -1,0 +1,28 @@
+{
+  "name": "8base-taskList",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Facundo-Vaena/8base-taskList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Facundo-Vaena/8base-taskList/issues"
+  },
+  "homepage": "https://github.com/Facundo-Vaena/8base-taskList#readme",
+  "dependencies": {
+    "apollo-cache-inmemory": "^1.6.6",
+    "apollo-client": "^2.6.10",
+    "apollo-link-http": "^1.5.17",
+    "graphql": "^15.6.1",
+    "graphql-tag": "^2.12.5",
+    "react-apollo": "^3.1.5"
+  }
+}

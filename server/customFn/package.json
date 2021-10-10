@@ -1,0 +1,19 @@
+{
+  "name": "customFn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "8base-cli-types": "^0.3.3",
+    "graphql": "^15.6.1",
+    "graphql-request": "^1.6.0",
+    "graphql-tag": "^2.12.5",
+    "path": "^0.12.7"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
